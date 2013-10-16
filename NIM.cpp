@@ -54,7 +54,7 @@ int main( )
 		}
 	}
 	while ( val != 3 );
-
+	cout << "Ingibergur sindri skrifadi thetta" << endl;
 	return 0;
 }
 

@@ -55,6 +55,7 @@ int main( )
 	}
 	while ( val != 3 );
 	cout << "Ingibergur sindri skrifadi thetta" << endl;
+	cout << "Agnar Ísaksson skrifadi thetta" << endl;
 	return 0;
 }
 
